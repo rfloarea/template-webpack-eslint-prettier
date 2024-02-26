@@ -1,14 +1,11 @@
-# A Template
+# Template Repo
+A template repo chock full of stuff from Webpack, ESLint, and Prettier
 
-Using:
-- webpack
-- eslint
-- prettier
-
----
 ## What's in the box?
 
-Webpack stuff
+### Webpack stuff
+Using the [Getting Started Guide](https://webpack.js.org/guides/getting-started/)
+
 1. initialize npm, install webpack locally, and install the webpack-cli 
 ```
 npm init
@@ -91,11 +88,13 @@ Above module: `devtool: 'inline-source-map',`
 `"watch": "webpack --watch"`
 
 **Notable Absences**
-1. No HtmlWebpackPlugin
-2. No webpack-dev-server
+1. No `HtmlWebpackPlugin`
+2. Not using the `webpack-dev-server`
 
 
-eslint stuff
+### ESLint stuff
+Using the [Getting Started Guide](https://eslint.org/docs/latest/use/getting-started)
 
 
-Prettier stuff
+### Prettier stuff
+Using the [Install guide](https://prettier.io/docs/en/install)
